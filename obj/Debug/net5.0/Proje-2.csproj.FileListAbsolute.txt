@@ -1,0 +1,16 @@
+C:\Users\brk\Documents\patika\Proje-2\bin\Debug\net5.0\Proje-2.exe
+C:\Users\brk\Documents\patika\Proje-2\bin\Debug\net5.0\Proje-2.deps.json
+C:\Users\brk\Documents\patika\Proje-2\bin\Debug\net5.0\Proje-2.runtimeconfig.json
+C:\Users\brk\Documents\patika\Proje-2\bin\Debug\net5.0\Proje-2.runtimeconfig.dev.json
+C:\Users\brk\Documents\patika\Proje-2\bin\Debug\net5.0\Proje-2.dll
+C:\Users\brk\Documents\patika\Proje-2\bin\Debug\net5.0\ref\Proje-2.dll
+C:\Users\brk\Documents\patika\Proje-2\bin\Debug\net5.0\Proje-2.pdb
+C:\Users\brk\Documents\patika\Proje-2\obj\Debug\net5.0\Proje-2.csproj.AssemblyReference.cache
+C:\Users\brk\Documents\patika\Proje-2\obj\Debug\net5.0\Proje-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\Documents\patika\Proje-2\obj\Debug\net5.0\Proje-2.AssemblyInfoInputs.cache
+C:\Users\brk\Documents\patika\Proje-2\obj\Debug\net5.0\Proje-2.AssemblyInfo.cs
+C:\Users\brk\Documents\patika\Proje-2\obj\Debug\net5.0\Proje-2.csproj.CoreCompileInputs.cache
+C:\Users\brk\Documents\patika\Proje-2\obj\Debug\net5.0\Proje-2.dll
+C:\Users\brk\Documents\patika\Proje-2\obj\Debug\net5.0\ref\Proje-2.dll
+C:\Users\brk\Documents\patika\Proje-2\obj\Debug\net5.0\Proje-2.pdb
+C:\Users\brk\Documents\patika\Proje-2\obj\Debug\net5.0\Proje-2.genruntimeconfig.cache
